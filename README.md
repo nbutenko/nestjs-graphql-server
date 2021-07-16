@@ -1,5 +1,5 @@
-#Video: https://www.youtube.com/watch?v=bQPk4S_W-pc
-#Link: http://localhost:3000/graphql
+# Video: https://www.youtube.com/watch?v=bQPk4S_W-pc
+# Link: http://localhost:3000/graphql
 ---------------------
 CreateBook mutation:
 mutation createBook($input: CreateBookInput!){
